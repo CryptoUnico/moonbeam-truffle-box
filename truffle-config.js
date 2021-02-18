@@ -1,12 +1,12 @@
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 // Standalone Development Node Private Key
 const privateKeyDev =
-   '99B3C12287537E38C90A9219D4CB074A89A16E9CDB20BF85728EBD97C343E342';
+   'cf92cec0a7809e0edd653979b5c3a9f475191e0d75d985ed0330be403ee8102e';
 // Moonbase Alpha Private Key --> Please change this to your own Private Key with funds
 // NOTE: Do not store your private key in plaintext files
 //       this is only for demostration purposes only
 const privateKeyMoonbase =
-   'YOUR_PRIVATE_KEY_HERE_ONLY_FOR_DEMOSTRATION_PURdPOSES';
+   'YOUR_PRIVATE_KEY_HERE_ONLY_FOR_DEMOSTRATION_PURPOSES';
 
 module.exports = {
    networks: {

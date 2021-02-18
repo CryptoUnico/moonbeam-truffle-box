@@ -6,7 +6,7 @@ const privateKeyDev =
 // NOTE: Do not store your private key in plaintext files
 //       this is only for demostration purposes only
 const privateKeyMoonbase =
-   'YOUR_PRIVATE_KEY_HERE_ONLY_FOR_DEMOSTRATION_PURPOSES';
+   'YOUR_PRIVATE_KEY_HERE_ONLY_FOR_DEMOSTRATION_PURdPOSES';
 
 module.exports = {
    networks: {
